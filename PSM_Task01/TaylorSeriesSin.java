@@ -1,5 +1,5 @@
 /* PSM Project 1 : Taylor series
- Student : Deniz Erdem Özkan Index Number : s31409
+ Student : Deniz Erdem Özkan
  */
 
 package org.example;
