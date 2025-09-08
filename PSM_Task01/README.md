@@ -1,7 +1,6 @@
 # Taylor Series Sine Approximation
 
 This project was created as the **1st assignment** for the *Foundations of Computer Simulations (PSM)* course at **PJATK**.  
-It received a **perfect grade (10/10)** and is shared here for informational purposes.
 
 ## Project Description
 A Java program that approximates `sin(x)` using the Taylor series expansion.  
