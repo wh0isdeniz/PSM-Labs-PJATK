@@ -4,9 +4,15 @@ This project was created as the **1st assignment** for the *Foundations of Compu
 It received a **perfect grade (10/10)** and is shared here for informational purposes.
 
 ## Project Description
-A Java program that approximates `sin(x)` using the Taylor series expansion around zero (Maclaurin series).  
-The program takes an angle as input and calculates the sine value by summing a finite number of terms.  
-This illustrates how mathematical series can be applied to numerical computation and simulations.
+A Java program that approximates `sin(x)` using the Taylor series expansion.  
+The program:  
+- Allows the user to choose between **radians** or **degrees** as the input unit.  
+- Normalizes the angle to the range \([-π, π]\).  
+- Uses **10 terms** of the Taylor series for the approximation.  
+- Compares the result with Java’s built-in `Math.sin(x)` function.  
+- Prints the absolute error between the two values.  
+
+This demonstrates how numerical methods can approximate mathematical functions and how accuracy improves with more terms in the series.
 
 ## Usage
 ```bash
